@@ -15,6 +15,9 @@ private int num1;
 private int num2;
 /* Comentario para el Ejercicio 6, ya no es el 5
 */
+
+/*Modificacion ejercicio 2
+*/
 public Calculadora (int a, int b){
 num1=a;
 num2=b;
