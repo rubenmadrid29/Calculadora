@@ -13,7 +13,8 @@ public class Calculadora {
 
 private int num1;
 private int num2;
-
+/* Comentario para el Ejercicio 5
+*/
 public Calculadora (int a, int b){
 num1=a;
 num2=b;
